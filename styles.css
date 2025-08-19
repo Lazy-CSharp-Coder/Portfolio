@@ -1,0 +1,25 @@
+/* CSS Selector */
+
+body {
+  /* CSS Declaration {} */
+
+  /* CSS Rule (regel) */
+  /* CSS Property = background-color */
+  /* CSS Value = aliceblue */
+  background-color: white;
+  padding: 8px;
+  border: 4px black solid;
+}
+
+.hero {
+  display: flex;
+  flex-direction: row; /*  legg dette til for senere bruk, denne er default */
+  align-items: center; /* vertikal plassering */
+  justify-content: center;
+  gap: 25px;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
