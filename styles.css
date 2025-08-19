@@ -1,3 +1,11 @@
+
+.cascadia-mono-VSfont {
+  font-family: "Cascadia Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* CSS Selector */
 header
   {
