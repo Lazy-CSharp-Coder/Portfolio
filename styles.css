@@ -14,7 +14,7 @@ body {
   /* CSS Value = aliceblue */
   background-color: white;
   padding: 8px;
-  border: 4px black solid;
+  background-color: black;
 }
 
 h1
