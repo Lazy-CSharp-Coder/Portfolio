@@ -11,6 +11,19 @@ body {
   border: 4px black solid;
 }
 
+h1
+{font-size: xx-large;
+ padding-bottom:50px;
+  
+}
+
+
+.menyliste
+{
+   display: flex;
+   flex-direction: row;
+
+}
 .hero {
   display: flex;
   flex-direction: column; /*  legg dette til for senere bruk, denne er default */
@@ -24,6 +37,7 @@ body {
    display:flex;
    flex-direction: row;
    align-items: center;
+   gap: 100px;
    
 }
 
