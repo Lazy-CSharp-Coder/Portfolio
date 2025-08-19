@@ -15,11 +15,15 @@ body {
   background-color: white;
   padding: 8px;
   background-color:  #1e1e1e;
+  font-family:sans-serif;
+  color:rgb(220,220,220);
 }
 
 h1
-{font-size: xx-large;
+{
+  font-size: xx-large;
  padding-bottom:50px;
+ colo
   
 }
 
@@ -33,7 +37,8 @@ p{
    display: flex;
    flex-direction: row;
    list-style-type: none;
-   font-size: 25px;
+   font-size: 30px;
+   color:rgb(220,220,220);
    
    gap:16px;
 
@@ -49,21 +54,20 @@ p{
 .heroinfocontainer
 {
    display:flex;
-   flex-direction: column;
+   flex-direction: row;
    align-items: center;
-   gap: 10px;
+   gap: 150px;
 
    
 }
 
 .profileimage
 {
-    width: 200;
+    width: 350px;
 
 }
 
-
-img {
-  height: auto;
-  width: 600px;
+.stringdata
+{
+  color:rgb(214,157,133);
 }
