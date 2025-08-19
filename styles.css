@@ -1,5 +1,9 @@
 /* CSS Selector */
-
+header
+  {
+    display:flex;
+    align-items: flex-end;
+  }
 body {
   /* CSS Declaration {} */
 
@@ -23,6 +27,7 @@ h1
    display: flex;
    flex-direction: row;
    list-style-type: none;
+   
    gap:100px;
 
 }
@@ -40,7 +45,7 @@ h1
    flex-direction: row;
    align-items: center;
    gap: 10px;
-   align-self:flex-end;
+
    
 }
 
