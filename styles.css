@@ -48,6 +48,7 @@ p{
   flex-direction: column; /*  legg dette til for senere bruk, denne er default */
   align-items: center; /* vertikal plassering */
   justify-content: center;
+  color:rgb(220,220,220);
   
 }
 
