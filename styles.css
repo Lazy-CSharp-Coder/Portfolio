@@ -13,10 +13,18 @@ body {
 
 .hero {
   display: flex;
-  flex-direction: row; /*  legg dette til for senere bruk, denne er default */
+  flex-direction: column; /*  legg dette til for senere bruk, denne er default */
   align-items: center; /* vertikal plassering */
   justify-content: center;
-  gap: 25px;
+  
+}
+
+.heroinfocontainer
+{
+   display:flex;
+   flex-direction: row;
+   align-items: center;
+   
 }
 
 img {
