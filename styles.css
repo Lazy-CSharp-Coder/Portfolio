@@ -14,7 +14,7 @@ body {
   /* CSS Value = aliceblue */
   background-color: white;
   padding: 8px;
-  background-color: black;
+  background-color:  #1e1e1e;
 }
 
 h1
@@ -24,8 +24,8 @@ h1
 }
 
 p{
-  color:white;
-  font-size: 32px;
+  color:rgb(220,220,220);
+  font-size: 20px;
 }
 
 .menyliste
