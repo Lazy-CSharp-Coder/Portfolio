@@ -3,7 +3,7 @@ header
   {
     display:flex;
     
-    justify-content: flex-end;
+    justify-content: flex-start;
     width:100%;
   }
 body {
@@ -23,7 +23,7 @@ h1
 {
   font-size: xx-large;
  padding-bottom:50px;
- colo
+ 
   
 }
 
