@@ -2,9 +2,9 @@
 header
   {
     display:flex;
-    justify-content: flex-start;
+    
+    justify-content: flex-end;
     width:100%;
-    color:rgb(220,220,220)
   }
 body {
   /* CSS Declaration {} */
@@ -23,7 +23,7 @@ h1
 {
   font-size: xx-large;
  padding-bottom:50px;
- 
+ colo
   
 }
 
@@ -69,9 +69,5 @@ p{
 
 .stringdata
 {
-    color:rgb(214,157,133);
-}
-.listeprofiltekst
-{
-  font-style: bold;
+  color:rgb(214,157,133);
 }
