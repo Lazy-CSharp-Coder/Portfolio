@@ -2,9 +2,11 @@
 header
   {
     display:flex;
-    
     justify-content: flex-start;
     width:100%;
+    color:rgb(220,220,220);
+    background-color:rgb(150,150,150);
+    margin:0px;
   }
 body {
   /* CSS Declaration {} */
@@ -16,7 +18,7 @@ body {
   padding: 8px;
   background-color:  #1e1e1e;
   font-family:sans-serif;
-  color:rgb(220,220,220);
+  
 }
 
 h1
@@ -75,5 +77,5 @@ p{
 
 .infoliste
 {
-  color:lightblue;
+  color:aqua;
 }
