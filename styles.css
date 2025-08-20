@@ -97,6 +97,10 @@ p{
 
 }
 
+.databaseprogram
+{
+  padding-top:20px;
+}
 .stringdata
 {
   font-family:"Cascadia Mono";
