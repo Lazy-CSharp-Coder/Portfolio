@@ -110,6 +110,12 @@ a{
   color:lightskyblue;
  
 }
+
+img{
+   width: 200px;
+   align-self: center;
+
+}
 /*
 p{
   color:rgb(220,220,220);
