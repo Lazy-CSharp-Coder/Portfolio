@@ -4,14 +4,13 @@
 header
   {
     display: sticky;
-    font-family: "VSFont";
-    display:flex;
-    justify-content: flex-start;
+    font-family: "Source Sans 3";
     width:100%;
     color:rgb(220,220,220);
     background-color:grey;
     margin:0px;
     padding:0%;
+    width:100%;
     
   }
 body {
