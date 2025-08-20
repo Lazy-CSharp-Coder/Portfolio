@@ -3,6 +3,7 @@
 /* CSS Selector */
 header
   {
+    display: sticky;
     font-family: "VSFont";
     display:flex;
     justify-content: flex-start;
@@ -10,6 +11,7 @@ header
     color:rgb(220,220,220);
     background-color:rgb(150,150,150);
     margin:0px;
+    
   }
 body {
   /* CSS Declaration {} */
@@ -31,12 +33,12 @@ h1
  
   
 }
-
+/*
 p{
   color:rgb(220,220,220);
   font-size: 12px;
 }
-
+*/
 .menyliste
 {
    display: flex;
@@ -76,10 +78,18 @@ p{
 .stringdata
 {
   font-family:"Cascadia Mono";
+  font-size: 14px;
   color:rgb(214,157,133);
 }
 
 .infoliste
 {
-  color:aqua;
+  color:lightskyblue;
+  font-family:"Cascadia Mono";
+  font-size: 14px;;
+}
+
+p{
+  color:rgb(220,220,220);
+
 }
