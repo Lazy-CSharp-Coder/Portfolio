@@ -1,11 +1,4 @@
-/*
-.cascadia-mono-VSfont {
-  font-family: "Cascadia Mono", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: normal;
-  font-style: normal;
-}
-*/
+
 
 /* CSS Selector */
 header
@@ -82,7 +75,7 @@ p{
 
 .stringdata
 {
-  font-family:"Cascadia Mono"
+  font-family:"Cascadia Mono";
   color:rgb(214,157,133);
 }
 
