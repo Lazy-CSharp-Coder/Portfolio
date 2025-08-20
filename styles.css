@@ -4,7 +4,9 @@
 header
   {
     
-    display: sticky;
+    display: flex;
+    position: sticky;
+    top:0;
     z-index: 10;
     font-family: "Source Sans 3";
     width:100%;
