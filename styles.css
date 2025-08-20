@@ -3,13 +3,16 @@
 /* CSS Selector */
 header
   {
+    
     display: sticky;
+    z-index: 10;
     font-family: "Source Sans 3";
     width:100%;
     color:rgb(220,220,220);
     background-color:grey;
     padding:5px;
-     width:100%;
+    width:100%;
+
     
   }
 body {
