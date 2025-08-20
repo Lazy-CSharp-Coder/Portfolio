@@ -123,6 +123,12 @@ a{
   width:200px;
   align-self: center;
 }
+.bokogtekst
+{
+  display: flex;
+  flex-direction: row;
+}
+
 /*
 p{
   color:rgb(220,220,220);
