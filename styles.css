@@ -138,6 +138,12 @@ a{
   
 }
 
+#om
+{
+  align-items: center; /* vertikal plassering */
+  justify-content: center;
+}
+
 /*
 p{
   color:rgb(220,220,220);
