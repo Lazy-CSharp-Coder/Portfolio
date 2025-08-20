@@ -69,7 +69,13 @@ p{
   
 }
 
+.classommeg
+{
+   diplay:flex;
+   align-items: center;
 
+
+}
 
 .heroinfocontainer
 {
@@ -129,7 +135,7 @@ a{
   flex-direction: column;
   align-items: center; /* vertikal plassering */
   justify-content: center;
-  width: 50%;
+  
 }
 
 /*
