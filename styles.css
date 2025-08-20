@@ -9,8 +9,9 @@ header
     justify-content: flex-start;
     width:100%;
     color:rgb(220,220,220);
-    background-color:black;
+    background-color:grey;
     margin:0px;
+    padding:0%;
     
   }
 body {
