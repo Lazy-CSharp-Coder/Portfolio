@@ -121,13 +121,13 @@ a{
 
 .cbok{
   width:190px;
-  align-self: center;
+
 }
 .bokogtekst
 {
   display: flex;
-  flex-direction: row;
-  -ms-flex-align: center;
+  flex-direction: column;
+   
 }
 
 /*
