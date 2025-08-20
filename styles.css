@@ -9,7 +9,7 @@ header
     justify-content: flex-start;
     width:100%;
     color:rgb(220,220,220);
-    background-color:rgb(150,150,150);
+    background-color:white;
     margin:0px;
     
   }
@@ -113,9 +113,9 @@ p{
 {
   color:rgb(220,220,220);
   font-family:"Source Sans 3";
-  text-align: center;
   padding-left:30%;
   padding-right:30%;
+  text-align: justify;
 
 
 }
@@ -130,6 +130,12 @@ a{
    height: 250px;
    
    
+}
+
+.gamlemaskiner
+{
+
+  align-items: center;
 }
 
 .cbok{
