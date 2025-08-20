@@ -30,9 +30,18 @@ h1
 {
   font-size: xx-large;
   padding-bottom:50px;
- 
+  color:rgb(220,220,220);
   
 }
+
+h2
+{
+  font-size: x-large;
+  padding-bottom:50px;
+  color:rgb(220,220,220);
+}
+
+
 /*
 p{
   color:rgb(220,220,220);
