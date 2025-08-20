@@ -127,7 +127,9 @@ a{
 {
   display: flex;
   flex-direction: column;
-   
+  align-items: center; /* vertikal plassering */
+  justify-content: center;
+  width: 50%;
 }
 
 /*
