@@ -49,6 +49,11 @@ h2
   text-align: center;
 }
 
+h3
+{
+  color:rgb(220,220,220);
+}
+
 
 /*
 p{
@@ -159,6 +164,13 @@ a{
   align-items: center; /* vertikal plassering */
   justify-content: center;
   
+}
+
+.samletdata
+{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
 }
 
 /*
