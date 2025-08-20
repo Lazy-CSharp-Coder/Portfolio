@@ -136,13 +136,16 @@ a{
 .atari {
    width: 400px;
    height: 250px;
-   
+   border: 2px solid black;   
    
 }
 
 .gamlemaskiner
 {
+  display:flex;
+  flex-direction: row;
   justify-content: center;
+
 }
 
 .cbok{
