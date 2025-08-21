@@ -2,7 +2,6 @@
 *{
   box-sizing: border-box;
 }
-/* CSS Selector */
 header{
     display: flex;
     position: sticky;
@@ -40,6 +39,8 @@ main {
   flex-grow:1;
 }
 
+/*   FOOTER   */
+ 
 footer{
 
   display:flex;
@@ -56,6 +57,29 @@ footer{
   font-weight: 12;
 }
 
+
+.kodeloftlogofooter {
+  width:90px;
+}
+
+.diffcolor1
+{
+   color: rgb(220,220,220);
+
+}
+.diffcolor2
+{
+    color:#ee7031;/* kodeloftet fargekode */
+}
+
+.tekstfooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+   
+}
+
+/* END FOOTER SPESIFIC CLASSES  */
 
 h1 {
   font-family: "Source Sans 3";
@@ -196,26 +220,11 @@ li {
   height:30px;
 }
 
-.kommendeprosjekter
-{
-   text-align: center;
-}
-
-.kodeloftlogofooter {
-  width:90px;
-}
-
 .logoprosjekt
 {
    width:150px;
 }
-
-.diffcolor1
+.kommendeprosjekter
 {
-   color:rgb(214,157,133);
-}
-
-.diffcolor2
-{
-    color:#ee7031;/* kodeloftet fargekode */
+   text-align: center;
 }
