@@ -210,7 +210,12 @@ li {
    width:150px;
 }
 
-.diffcolor
+.diffcolor1
 {
-    color:orange;
+   color:rgb(214,157,133);
+}
+
+.diffcolor2
+{
+    color:#ee7031;/* kodeloftet fargekode */
 }
