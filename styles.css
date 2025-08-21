@@ -18,14 +18,14 @@ header{
 
 body {
  
-  
+  /* her kommer det som trengs for å få flex-grow:1 til å fungere */
   height:100%;
   margin:0;
 
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-
+  /* slutt  */
  
   font-family: "Source Sans 3";
   color:rgb(220,220,220);
@@ -69,11 +69,6 @@ a {
  
 }
 
-.wrapper {
-  /* display: flex;
-  flex-direction: column;
-  min-height: 100vh; */
-}
 
 
 .menyliste {
