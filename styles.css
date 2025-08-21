@@ -5,7 +5,6 @@
 /* CSS Selector */
 header{
     display: flex;
-    
     position: sticky;
     top:0;
     z-index: 10;
@@ -19,9 +18,10 @@ header{
 
 body {
  
+  
   height:100%;
   margin:0;
-  
+
   display: flex;
   flex-direction: column;
   min-height: 100vh;
