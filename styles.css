@@ -5,6 +5,7 @@
 /* CSS Selector */
 header{
     display: flex;
+    flex-shrink:0;
     position: sticky;
     top:0;
     z-index: 10;
@@ -13,9 +14,11 @@ header{
     color:rgb(220,220,220);
     background-color:grey;
     border:12px solid #1e1e1e; 
+  
   }
 
 body {
+  height:100vh;
   font-family: "Source Sans 3";
   color:rgb(220,220,220);
   background-color:  #1e1e1e;
@@ -25,8 +28,8 @@ body {
   
 }
 
-section {
-  height:100vh;
+main {
+  flex: grow 1;
 }
 
 h1 {
@@ -46,6 +49,11 @@ a {
   color:lightskyblue;
  
 }
+
+footer {
+  flex-shrink:0;
+}
+
 
 .menyliste {
    
