@@ -19,12 +19,12 @@ header{
 
 body {
 
-  height:100vh;
+  height:100%;
   font-family: "Source Sans 3";
   color:rgb(220,220,220);
   background-color:  #1e1e1e;
   font-family:sans-serif;
-  margin:0px;
+  margin:0;
 
   
 }
@@ -63,6 +63,13 @@ a {
   color:lightskyblue;
  
 }
+
+#wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
 
 .menyliste {
    
