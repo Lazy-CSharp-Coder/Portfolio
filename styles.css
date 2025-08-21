@@ -28,6 +28,7 @@ body {
 section {
   height: 100vh;
 }
+
 h1 {
 
   font-size: xx-large;
@@ -116,8 +117,6 @@ li {
   
   color:rgb(220,220,220);
   font-family:"Source Sans 3";
-  padding-left:30%;
-  padding-right:30%;
   text-align: justify;
 }
 
