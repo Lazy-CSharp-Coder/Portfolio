@@ -30,12 +30,14 @@ body {
 
 section {
  
-  height:80vh;
+  height:77vh;
 }
 
 footer{
 
   background-color: grey;
+  padding: 20px;
+  border:12px solid #1e1e1e; 
   
 }
 
