@@ -13,7 +13,6 @@ header
     color:rgb(220,220,220);
     background-color:grey;
     border:12px solid #1e1e1e;
-    padding:5px;
     width:100%;
 
     
@@ -61,6 +60,12 @@ p{
   font-size: 12px;
 }
 */
+
+
+a{
+  color:lightskyblue;
+ 
+}
 .menyliste
 {
    display: flex;
@@ -134,10 +139,6 @@ p{
 
 }
 
-a{
-  color:lightskyblue;
- 
-}
 
 .atari {
    width: 400px;
