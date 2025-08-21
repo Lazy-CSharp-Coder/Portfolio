@@ -16,49 +16,36 @@ header{
   }
 
 body {
- 
-  background-color: white;
+  font-family: "Source Sans 3";
+  color:rgb(220,220,220);
   background-color:  #1e1e1e;
   font-family:sans-serif;
   margin:0px;
+
   
 }
 
 h1 {
-  font-family:"Source Sans 3";
+
   font-size: xx-large;
-  color:rgb(220,220,220);
   text-align: center;
   
 }
 
 h2 {
-  font-family:"Source Sans 3";
+  
   font-size: x-large;
-  color:rgb(220,220,220);
   text-align: center;
 }
 
-h3 {
-  color:rgb(220,220,220);
-}
-
-
-/*
-p{
-  color:rgb(220,220,220);
-  font-size: 12px;
-}
-*/
-
-
-a {
+a { 
   color:lightskyblue;
  
 }
 
 .menyliste {
-   display: flex;
+   
+  display: flex;
    flex-direction: row;
    list-style-type: none;
    font-size: 30px;
@@ -66,6 +53,7 @@ a {
    gap:30px;
 
 }
+
 .hero {
   display: flex;
   flex-direction: column; /*  legg dette til for senere bruk, denne er default */
@@ -75,13 +63,14 @@ a {
 }
 
 .ommegdata {
-  
+    
    align-items: center;
    justify-content: center;
    
 }
 
 .heroinfocontainer {
+   
    display:flex;
    flex-direction: row;
    align-items: center;
@@ -90,7 +79,8 @@ a {
 }
 
 .profileimage {
-    width: 350px;
+    
+  width: 350px;
 
 }
 
@@ -100,6 +90,7 @@ a {
 }
 
 .stringdata {
+  
   font-family:"Cascadia Mono";
   font-size: 14px;
   color:rgb(214,157,133);
@@ -107,12 +98,14 @@ a {
 }
 
 .infoliste {
+
   color:lightskyblue;
   font-family:"Cascadia Mono";
   font-size: 14px;;
 }
 
 .standard {
+  
   color:rgb(220,220,220);
   font-family:"Source Sans 3";
   padding-left:30%;
@@ -136,6 +129,7 @@ a {
 }
 
 .cbok{
+  
   width:190px;
 
 }
@@ -153,5 +147,5 @@ a {
 {
     display:flex;
     flex-direction: row;
-    
+   
 }
