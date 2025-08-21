@@ -12,8 +12,7 @@ header
     width:100%;
     color:rgb(220,220,220);
     background-color:grey;
-    border:12px solid #1e1e1e;
-    width:100%;
+    border:12px solid #1e1e1e; 
 
     
   }
@@ -27,6 +26,7 @@ body {
   background-color:  #1e1e1e;
   font-family:sans-serif;
   margin:0px;
+  box-sizing: border-box;
   
 }
 
@@ -174,10 +174,3 @@ a{
     flex-direction: row;
     
 }
-
-/*
-p{
-  color:rgb(220,220,220);
-
-}
-*/
