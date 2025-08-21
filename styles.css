@@ -76,7 +76,8 @@ footer{
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
-   
+  gap: 10px;
+ 
 }
 
 /* END FOOTER SPESIFIC CLASSES  */
