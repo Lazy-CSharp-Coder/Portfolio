@@ -1,9 +1,10 @@
-
-
+/*
+*{
+  box-sizing: border-box;
+}
 /* CSS Selector */
 header
   {
-    
     display: flex;
     position: sticky;
     top:0;
@@ -26,7 +27,7 @@ body {
   background-color:  #1e1e1e;
   font-family:sans-serif;
   margin:0px;
-  box-sizing: border-box;
+  
   
 }
 
