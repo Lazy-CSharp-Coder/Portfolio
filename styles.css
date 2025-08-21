@@ -62,6 +62,11 @@ a {
   color:rgb(220,220,220);
 }
 
+li {
+  display:flex;
+  align-items: center;
+  padding: 10px;
+}
 .ommegdata {
     
    align-items: center;
