@@ -41,9 +41,12 @@ main {
 }
 
 footer{
-
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
   background-color: grey;
-  color:lightblue;
+  color:rgb(220,220,220);
   padding: 20px;
   border:12px solid #1e1e1e; 
   
@@ -195,5 +198,5 @@ li {
 }
 
 .kodeloftlogofooter {
-  width:10px;
+  width:90px;
 }
