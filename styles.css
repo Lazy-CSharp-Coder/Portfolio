@@ -44,14 +44,14 @@ footer{
 
 
 h1 {
-
+  font-family: "Source Sans 3";
   font-size: xx-large;
   text-align: center;
   padding-top:0;
 }
 
 h2 {
-  
+  font-family: "Source Sans 3";
   font-size: x-large;
   text-align: center;
 }
@@ -131,9 +131,10 @@ li {
 
 .standard {
   
+  font-family: "Source Sans 3";
   color:rgb(220,220,220);
   width:790px;
-  text-align: justify;
+  text-align: left;
 
 }
 
