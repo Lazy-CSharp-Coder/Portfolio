@@ -49,12 +49,11 @@ a {
 
 .menyliste {
    
-  display: flex;
+   display: flex;
    flex-direction: row;
    list-style-type: none;
    font-size: 30px;
-   color:rgb(220,220,220);
-   gap:30px;
+   gap:40px;
 
 }
 
@@ -69,7 +68,7 @@ a {
 li {
   display:flex;
   align-items: center;
-  gap: 6px;
+  gap: 10px;
 }
 .ommegdata {
     
@@ -161,5 +160,6 @@ li {
 .profilicon
 {
   width:32px;
+  height:30px;
 }
 
