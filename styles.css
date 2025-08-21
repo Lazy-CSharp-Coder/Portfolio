@@ -5,7 +5,7 @@
 /* CSS Selector */
 header{
     display: flex;
-    flex-shrink:0;
+    
     position: sticky;
     top:0;
     z-index: 10;
@@ -28,8 +28,9 @@ body {
   
 }
 
-main {
-  flex: grow 1;
+section {
+ 
+  height:90vh;
 }
 
 h1 {
@@ -49,11 +50,6 @@ a {
   color:lightskyblue;
  
 }
-
-footer {
-  flex-shrink:0;
-}
-
 
 .menyliste {
    
