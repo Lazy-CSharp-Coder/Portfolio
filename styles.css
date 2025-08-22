@@ -53,7 +53,7 @@ body {
 main {
   /* padding:50px; */
   flex-grow:1;
-  background-image: url("/Images/bakgrunnopacity60.png"); 
+  background-image: url("/Images/bakgrunnopacity50.png"); 
   background-repeat:no-repeat;
   background-attachment:fixed; 
 
@@ -215,7 +215,7 @@ li {
   /* color:rgb(220,220,220); */
   width:790px;
   text-align: left;
-  background-color: rgba(0,0,0,1);
+  background: transparent;
   
 
 }
