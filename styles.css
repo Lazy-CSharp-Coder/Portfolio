@@ -56,6 +56,7 @@ main {
   background-image: url("/Images/bakgrunnuskarp.png"); 
   background-repeat:no-repeat;
   background-attachment:fixed;
+
    
 }
 
@@ -142,6 +143,7 @@ li {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  background-color: #1e1e1e;
    
 }
 
