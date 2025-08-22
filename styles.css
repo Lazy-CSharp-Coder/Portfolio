@@ -49,6 +49,7 @@ body {
 }
 
 main {
+  padding:50px;
   flex-grow:1;
 }
 
