@@ -39,9 +39,9 @@ body {
 
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 100vh; 
 
-  /* slutt  */
+  /* slutt  for flex-grow:1 */
  
   font-family: "Source Sans 3";
   color:rgb(220,220,220);
@@ -55,7 +55,7 @@ body {
 main {
   /* padding:50px; */
   flex-grow:1;
-  background-image: url("/Images/bakgrunnopacity50.png"); 
+  background-image: url("/Images/bakgrunnopacity60.png"); 
   background-repeat:no-repeat;
   background-attachment:fixed; 
 
@@ -98,7 +98,7 @@ footer{
 
 }
 .diffcolor2{
-    color:#ee7031;/* kodeloftet fargekode */
+    color:#ee7031;    /* kodeloftet fargekode */
 }
 
 .tekstfooter {
