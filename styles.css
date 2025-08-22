@@ -137,6 +137,18 @@ li {
 }
 
 
+.ommegwrapper
+{
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+}
+
+.emptydiv
+{
+  background-color: transparent;
+}
+
 .ommegdata {
     
   display:flex;
@@ -208,6 +220,7 @@ li {
 
 .cbok {
   width:190px;
+  background-color: transparent;
 }
 
 .bokogtekst {
@@ -221,6 +234,7 @@ li {
 .samletdata {
     display:flex;
     flex-direction: row;
+    background-color: #1e1e1e;
    
 }
 
