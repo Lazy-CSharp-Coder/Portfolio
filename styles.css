@@ -30,6 +30,8 @@ header{
 
 /* END HEADER SPESIFIC CLASSES */
 
+/* BODY og MAIN klasser */
+
 body {
  
   /* her kommer det som trengs for å få flex-grow:1 til å fungere */
@@ -47,21 +49,15 @@ body {
   color:rgb(220,220,220);
   background-color:  #1e1e1e;
   font-family:sans-serif;
-
-  
-  
 }
 
 main {
-  /* padding:50px; */
-  flex-grow:1;
+
+  flex-grow:1;   /* Se body for mer info */
+
   background-image: url("/Images/bakgrunnopacity60.png"); 
   background-repeat:no-repeat;
   background-attachment:fixed; 
-
-  /* background-color: rgba(0,0,0,0.5); */
-
-   
 }
 
 .homepagemain
@@ -138,6 +134,8 @@ li {
   gap: 10px;
 }
 
+/* Hero classes */
+
 .hero {
   display: flex;
   flex-direction: column; /*  legg dette til for senere bruk, denne er default */
@@ -148,6 +146,53 @@ li {
 
 }
 
+
+.heroinfocontainer {
+   
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 150px;
+  
+}
+
+.profileimage {
+   
+ width: 350px;
+
+}
+
+.databaseprogram {
+
+ padding-top:20px;
+}
+
+/* Klasser som viser info om meg på Hero siden */
+
+.infoliste {
+
+  color:lightskyblue;
+  font-family:"Cascadia Mono";
+  font-size: 14px;;
+ }
+
+.stringdata {
+ 
+ font-family:"Cascadia Mono";
+ font-size: 14px;
+ color:rgb(214,157,133);
+ padding-left: 20px;
+}
+
+.samletdata {
+  display:flex;
+  flex-direction: row;
+  background-color: #1e1e1e;
+ 
+}
+
+
+/* Om meg siden sine klasser */
 
 .ommegwrapper
 {
@@ -171,43 +216,6 @@ li {
   justify-content: center;
 
   /* background-color: rgba(0,0,0,0.5); */
- 
-   
-}
-
-.heroinfocontainer {
-   
-   display:flex;
-   flex-direction: row;
-   align-items: center;
-   gap: 150px;
-   
-}
-
-.profileimage {
-    
-  width: 350px;
-
-}
-
-.databaseprogram {
-
-  padding-top:20px;
-}
-
-.stringdata {
-  
-  font-family:"Cascadia Mono";
-  font-size: 14px;
-  color:rgb(214,157,133);
-  padding-left: 20px;
-}
-
-.infoliste {
-
-  color:lightskyblue;
-  font-family:"Cascadia Mono";
-  font-size: 14px;;
 }
 
 .standard {
@@ -245,17 +253,12 @@ li {
 .bokogtekst {
   display: flex;
   flex-direction: column;
-  align-items: center; /* vertikal plassering */
+  align-items: center;        /* vertikal plassering */
   justify-content: center;
   
 }
 
-.samletdata {
-    display:flex;
-    flex-direction: row;
-    background-color: #1e1e1e;
-   
-}
+/* Kommende prosjekter klasser */
 
 .logoprosjekt {
    width:150px;
@@ -263,8 +266,4 @@ li {
 
 .kommendeprosjekter {
    text-align: center;
-}
-
-.prosjektclass {
-  /* background-color: rgba(0,0,0,0.6); */
 }
