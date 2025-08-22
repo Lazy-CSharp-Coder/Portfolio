@@ -53,11 +53,10 @@ body {
 main {
   padding:50px;
   flex-grow:1;
-  background-image: url("/Images/imageproall.png"); 
+  background-image: url("/Images/bagrunnuskarp.png"); 
   background-repeat:no-repeat;
   background-attachment:fixed;
- 
-  
+   
 }
 
 /*   FOOTER   */
