@@ -51,16 +51,16 @@ body {
 }
 
 main {
-  padding:50px;
+  /* padding:50px; */
   flex-grow:1;
   background-image: url("/Images/bakgrunnuskarp.png"); 
   background-repeat:no-repeat;
-  background-attachment:fixed;
+  background-attachment:fixed; 
+  /* background-color: rgba(0,0,0,0.5); */
 
    
 }
-
-/*   FOOTER   */
+/* FOOTER   */
  
 footer{
 
@@ -206,7 +206,7 @@ li {
   /* color:rgb(220,220,220); */
   width:790px;
   text-align: left;
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0,0,0,1);
   
 
 }
@@ -252,4 +252,8 @@ li {
 
 .kommendeprosjekter {
    text-align: center;
+}
+
+.prosjektclass {
+  /* background-color: rgba(0,0,0,0.6); */
 }
