@@ -79,13 +79,11 @@ footer{
   width:90px;
 }
 
-.diffcolor1
-{
+.diffcolor1{
    color: rgb(220,220,220);
 
 }
-.diffcolor2
-{
+.diffcolor2{
     color:#ee7031;/* kodeloftet fargekode */
 }
 
@@ -206,8 +204,7 @@ li {
   width:190px;
 }
 
-.bokogtekst
-{
+.bokogtekst {
   display: flex;
   flex-direction: column;
   align-items: center; /* vertikal plassering */
@@ -215,19 +212,16 @@ li {
   
 }
 
-.samletdata
-{
+.samletdata {
     display:flex;
     flex-direction: row;
    
 }
 
-.logoprosjekt
-{
+.logoprosjekt {
    width:150px;
 }
 
-.kommendeprosjekter
-{
+.kommendeprosjekter {
    text-align: center;
 }
