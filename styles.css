@@ -156,7 +156,7 @@ li {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-color: #1e1e1e;
+ 
    
 }
 
@@ -197,11 +197,13 @@ li {
 
 .standard {
   
+  color:white;
   font-family: "Source Sans 3";
-  color:rgb(220,220,220);
+  /* color:rgb(220,220,220); */
   width:790px;
   text-align: left;
-  opacity: 0.5;
+  background-color: rgba(0,0,0,0.5);
+  
 
 }
 
