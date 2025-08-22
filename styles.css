@@ -46,13 +46,14 @@ body {
   background-color:  #1e1e1e;
   font-family:sans-serif;
 
-  background-image: "Images/yatzysvartall.png";
+  
   
 }
 
 main {
   padding:50px;
   flex-grow:1;
+  /* background-image: "Images/yatzysvartall.png"; */
 }
 
 /*   FOOTER   */
