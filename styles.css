@@ -111,6 +111,12 @@ footer{
     gap:20px;
 }
 
+.textandicons {
+   display: flex;
+   justify-content: space-between;
+   gap: 40px;
+}
+
 /* END FOOTER SPESIFIC CLASSES  */
 
 h1 {
