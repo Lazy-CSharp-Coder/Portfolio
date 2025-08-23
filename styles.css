@@ -114,7 +114,8 @@ footer{
 .textandicons {
    display: flex;
    justify-content: space-between;
-   gap: 40px;
+   align-items: center;
+   gap: 80px;
 }
 
 /* END FOOTER SPESIFIC CLASSES  */
