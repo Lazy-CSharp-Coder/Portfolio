@@ -105,6 +105,12 @@ footer{
  
 }
 
+.kontakt
+{
+    display: flex;
+    gap:20px;
+}
+
 /* END FOOTER SPESIFIC CLASSES  */
 
 h1 {
