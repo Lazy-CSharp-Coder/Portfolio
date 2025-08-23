@@ -115,7 +115,7 @@ footer{
    display: flex;
    justify-content: space-between;
    align-items: center;
-   gap: 80px;
+   gap: 100px;
 }
 
 /* END FOOTER SPESIFIC CLASSES  */
