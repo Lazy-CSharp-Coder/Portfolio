@@ -195,6 +195,7 @@ li {
  font-family:"Cascadia Mono";
  font-size: 14px;
  color:rgb(214,157,133);
+ padding-left: 25px;
 
 }
 
@@ -204,15 +205,6 @@ li {
   background-color: #1e1e1e;
 
  
-}
-
-.dataret
-{
-    display:flex;
-    font-family: "Cascadia Mono";
-    font-size: 14 px;
-    color:rgb(220,220,220);
-    padding-bottom:20px;
 }
 
 
