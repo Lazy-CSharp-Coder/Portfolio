@@ -28,6 +28,8 @@ header{
  
  }
 
+
+
 /* END HEADER SPESIFIC CLASSES */
 
 /* BODY og MAIN klasser */
@@ -181,6 +183,23 @@ li {
 }
 
 /* Klasser som viser info om meg på Hero siden */
+
+
+.datrettext
+{
+  font-family:"Cascadia Mono";
+  font-size: 14px;
+  color:rgb(214,157,133);
+  
+}
+
+
+.datretdiv
+{
+  display: flex;
+  flex-direction: column;
+}
+
 
 .infoliste {
 
