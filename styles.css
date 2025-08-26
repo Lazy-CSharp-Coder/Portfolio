@@ -114,14 +114,14 @@ footer{
 .diffcolor2{
     color:#ee7031;    /* kodeloftet fargekode */
 }
-
+/* 
 .tekstfooter {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
   gap: 10px;
  
-}
+} */
 
 .kontakt
 {
