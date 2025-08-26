@@ -58,13 +58,13 @@ main {
   flex-grow:1;   /* Se body for mer info */
 
   background-image: url("/Images/bakgrunnopacity60.png"); 
-  background-repeat:no-repeat;
+  background-repeat:repeat;
   background-attachment:fixed; 
 }
 
 .homepagemain
 {
-  padding:50px;
+  padding-top:50px;
   background-image: none;
 }
 
