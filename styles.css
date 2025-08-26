@@ -68,12 +68,12 @@ main {
 .om_main {
 
   background-image: url("/Images/nybakgrunnblack.png"); 
-  background-size:cover;
+  background-size:contain;
   background-position:center;
   background-repeat:repeat;
-  background-position: top left;
+  background-position: 0 130px;
   background-attachment:fixed; 
-  background-clip: content-box;
+ 
 
 }
 .prosjekt_main {
@@ -82,8 +82,9 @@ main {
   background-size:cover;
   background-position:center;
   background-repeat:repeat;
+  background-position: 0 130px;
   background-attachment:fixed; 
-  background-clip: content-box;
+
 }
 /* FOOTER   */
  
