@@ -58,6 +58,8 @@ main {
   flex-grow:1;   /* Se body for mer info */
 
   background-image: url("/Images/bakgrunnopacity60.png"); 
+  background-size: cover;
+  background-position: contain;
   background-repeat:repeat;
   background-attachment:fixed; 
 
