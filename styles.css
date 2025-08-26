@@ -110,11 +110,13 @@ footer{
 .diffcolor1{
    color: rgb(220,220,220);
    padding-left:3px;
+   padding-right:3px;
 
 }
 .diffcolor2{
     color:#ee7031;    /* kodeloftet fargekode */
     padding-left:3px;
+    padding-right:3px;
 }
 /* 
 .tekstfooter {
