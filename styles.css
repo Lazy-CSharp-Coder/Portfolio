@@ -315,6 +315,20 @@ li {
   
 }
 
+.bookdiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
+
+.books {
+
+  width:210px;
+  height:320px;
+}
+
+
 /* Kommende prosjekter klasser */
 
 .logoprosjekt {
