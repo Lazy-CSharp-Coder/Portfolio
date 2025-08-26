@@ -57,20 +57,33 @@ main {
 
   flex-grow:1;   /* Se body for mer info */
 
-  background-image: url("/Images/bakgrunnopacity60.png"); 
-  background-size: cover;
-  background-position: contain;
-  background-repeat:repeat;
-  background-attachment:fixed; 
-
+  
 }
 
-.homepagemain
-{
+.homepagemain {
   padding-top:50px;
   background-image: none;
 }
 
+.om_main {
+
+  background-image: url("/Images/nybakgrunnblack.png"); 
+  background-size:cover;
+  background-position:center;
+  background-repeat:repeat;
+  background-attachment:fixed; 
+  background-clip: content-box;
+
+}
+.prosjekt_main {
+ 
+  background-image: url("/Images/nybakgrunnblack.png"); 
+  background-size:cover;
+  background-position:center;
+  background-repeat:repeat;
+  background-attachment:fixed; 
+  background-clip: content-box;
+}
 /* FOOTER   */
  
 footer{
