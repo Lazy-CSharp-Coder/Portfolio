@@ -68,7 +68,7 @@ main {
 .om_main {
 
   background-image: url("/Images/nybakgrunnblack.png"); 
-  background-size:contain;
+  /* background-size:contain; */
   background-position:center;
   background-repeat:repeat;
   background-position: 0 130px;
@@ -79,7 +79,7 @@ main {
 .prosjekt_main {
  
   background-image: url("/Images/nybakgrunnblack.png"); 
-  background-size:cover;
+  /* background-size:cover; */
   background-position:center;
   background-repeat:repeat;
   background-position: 0 130px;
