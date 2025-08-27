@@ -288,16 +288,16 @@ li {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  scroll-margin-top: 110px;
+  scroll-margin-top: 130px;
 
 }
 
 .boeker {
-  scroll-margin-top:210px;
+  scroll-margin-top:150px;
 }
 
 .filmer {
-  scroll-margin-top:210px;
+  scroll-margin-top:150px;
 }
 
 .standard {
