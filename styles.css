@@ -255,17 +255,21 @@ li {
   display: flex;
   flex-direction: row;
   gap: 20px;
+  font-size: 14px;
+
+
 
 }
 
 .floatingnav {
   
   position: sticky;
-  top:80px;
   z-index: 10;
   display: flex;
   justify-content: center;
-  
+  align-items: center;
+  margin:0;
+  padding:0;
 
 }
 .ommegwrapper
