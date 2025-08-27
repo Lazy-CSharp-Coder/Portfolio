@@ -164,10 +164,6 @@ li {
   gap: 10px;
 }
 
-p {
-  color:white;
-}
-
 /* Hero classes */
 
 .hero {
@@ -208,14 +204,15 @@ p {
   color:rgb(214,157,133);
 }
 
-/* denne er ikke i bruk akkurat nå 
+
+/* Ikke i bruk
 
 .datretdiv
 {
   display: flex;
   flex-direction: column;
 } 
- skal kun brukes hvis "...retreiving data... - skal legges til */
+   skal kun brukes hvis "...retreiving data... - skal legges til */
 
 .infoliste {
 
@@ -280,16 +277,16 @@ p {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  scroll-margin-top: 130px;
+  scroll-margin-top: 130px;   /* justerer for header ved bookmark anchors */
 
 }
 
 .boeker {
-  scroll-margin-top:150px;
+  scroll-margin-top:150px;    /* justerer for header */
 }
 
 .filmer {
-  scroll-margin-top:150px;
+  scroll-margin-top:150px;    /* justerer for header */
 }
 
 .standard {
