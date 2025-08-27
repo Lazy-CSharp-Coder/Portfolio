@@ -28,8 +28,6 @@ header{
  
  }
 
-
-
 /* END HEADER SPESIFIC CLASSES */
 
 /* BODY og MAIN klasser */
@@ -56,8 +54,6 @@ body {
 main {
 
   flex-grow:1;   /* Se body for mer info */
-
-  
 }
 
 .homepagemain {
@@ -73,9 +69,8 @@ main {
   background-repeat:repeat;
   background-position: 0 130px;
   background-attachment:fixed; 
-
-
 }
+
 .prosjekt_main {
  
   background-image: url("/Images/nybakgrunnblack.png"); 
@@ -84,12 +79,11 @@ main {
   background-repeat:repeat;
   background-position: 0 130px;
   background-attachment:fixed; 
-
 }
+
 /* FOOTER   */
  
-footer{
-
+footer {
   display:flex;
   flex-direction: row;
   justify-content: space-between;
@@ -187,7 +181,6 @@ p {
 
 }
 
-
 .heroinfocontainer {
    
   display:flex;
@@ -198,14 +191,13 @@ p {
 }
 
 .profileimage {
-   
- width: 350px;
-
+  
+  width: 350px;
 }
 
 .databaseprogram {
-
- padding-top:20px;
+  
+  padding-top:20px;
 }
 
 /* Klasser som viser info om meg på Hero siden */
@@ -216,16 +208,13 @@ p {
   font-family:"Cascadia Mono";
   font-size: 14px;
   color:rgb(214,157,133);
-  
 }
-
 
 .datretdiv
 {
   display: flex;
   flex-direction: column;
 }
-
 
 .infoliste {
 
@@ -252,19 +241,16 @@ p {
  
 }
 
-
 /* Om meg siden sine klasser */
 
-/* felles for ommeg.html og prosjekter.html */
+/* felles for ommeg.html og prosjekter.html - undermeny klasser*/
 
 .undermeny {
   display: flex;
   flex-direction: row;
   gap: 20px;
   font-size: 14px;
-  padding-left:13px;
-
-
+  padding-left:12px;
 
 }
 
@@ -313,15 +299,12 @@ p {
   width:790px;
   text-align: left;
   background: transparent;
-  
-
 }
 
 .atari {
    width: 400px;
    height: 250px;
    border: 2px solid black;   
-   
 }
 
 .gamlemaskiner
@@ -340,12 +323,10 @@ p {
 .bokogtekst {
   display: flex;
   flex-direction: column;
-  align-items: center;        /* vertikal plassering */
+  align-items: center;       
   justify-content: center;
   
 }
-
-
 
 .bookdiv {
   display: flex;
@@ -363,15 +344,11 @@ p {
   height:320px;
 }
 
-
-
-
 /* Kommende prosjekter klasser */
 
 .logoprosjekt {
    width:150px;
 }
-
 
 .kommendeprosjekter {
   
