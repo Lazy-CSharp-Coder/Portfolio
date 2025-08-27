@@ -171,6 +171,10 @@ li {
   gap: 10px;
 }
 
+p {
+  color:white;
+}
+
 /* Hero classes */
 
 .hero {
@@ -368,7 +372,11 @@ li {
    width:150px;
 }
 
+
 .kommendeprosjekter {
-     
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
    text-align: center;
 }
