@@ -251,6 +251,12 @@ li {
 
 /* Om meg siden sine klasser */
 
+.undermeny {
+  display: flex;
+  flex-direction: row;
+
+}
+
 .ommegwrapper
 {
     display: flex;
