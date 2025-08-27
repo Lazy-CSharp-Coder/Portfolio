@@ -254,9 +254,17 @@ li {
 .undermeny {
   display: flex;
   flex-direction: row;
+  gap: 20px;
 
 }
 
+.floatingnav {
+  position: sticky;
+  top:0;
+  z-index: 10;
+  
+
+}
 .ommegwrapper
 {
     display: flex;
