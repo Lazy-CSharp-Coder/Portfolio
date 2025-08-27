@@ -278,7 +278,7 @@ li {
 /* slutt felles */
 
 .padclassheader {
-  padding-top: 160px;
+  margin-top:0;
 }
 .ommegdata {
     
