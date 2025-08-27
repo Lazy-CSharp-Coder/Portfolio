@@ -73,7 +73,7 @@ main {
   background-repeat:repeat;
   background-position: 0 130px;
   background-attachment:fixed; 
-  margin-top:60px;
+
 
 }
 .prosjekt_main {
@@ -286,7 +286,7 @@ li {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-
+  scroll-padding-top: 160px;
   /* background-color: rgba(0,0,0,0.5); */
 }
 
@@ -348,9 +348,7 @@ li {
   height:320px;
 }
 
-.booksandfilms {
- 
-}
+
 
 
 /* Kommende prosjekter klasser */
