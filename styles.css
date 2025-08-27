@@ -277,17 +277,19 @@ li {
 
 /* slutt felles */
 
-.padclassheader {
-  margin-top:0;
+.omhero {
+  scroll-margin-top: 200px;
 }
+
+
 .ommegdata {
     
   display:flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  scroll-margin-top: 10%;
-  /* background-color: rgba(0,0,0,0.5); */
+  scroll-margin-top: 100px;
+
 }
 
 .standard {
