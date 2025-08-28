@@ -338,9 +338,10 @@ li {
 
 .logoprosjekt {
    width:150px;
+   align-self: center;
 }
 
-.kommendeprosjekter {
+.prosjekter {
   
   display: flex;
   flex-direction: column;
