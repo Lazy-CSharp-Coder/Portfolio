@@ -241,9 +241,12 @@ li {
   gap: 20px;
   font-size: 14px;
   padding-left:12px;
+  padding-top:5px;
+
 
 }
 
+/*
 .floatingnav {
   
   position: sticky;
@@ -255,7 +258,7 @@ li {
 
 
 }
-
+*/
 /* slutt felles */
 
 .omhero {
